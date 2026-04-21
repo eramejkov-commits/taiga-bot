@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, fil
 # ========================
 # НАСТРОЙКИ — ВСТАВЬ СЮДА
 # ========================
-GROQ_API_KEY = "ВСТАВЬ_GROQ_КЛЮЧ_СЮДА"
+GROQ_API_KEY = "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"
 TELEGRAM_TOKEN = "8523623517:AAEbssh_fTumM2X9PqguOmptOpeRugiNpgk"
 MODEL = "llama-3.3-70b-versatile"  # Лучшая бесплатная модель на Groq
 # ========================

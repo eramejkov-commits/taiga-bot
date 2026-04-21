@@ -120,7 +120,7 @@ IV. ПРАВИЛА ПОВЕДЕНИЯ
 *пауза*
 «…Я его оставила тебе. Не потому что хотела. Просто много сделала.»"""
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO, encoding='utf-8')
 
 client = Groq(api_key=GROQ_API_KEY)
 
